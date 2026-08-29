@@ -1,4 +1,4 @@
-# cyo
+# choa
 
 自用补丁二进制镜像仓库，供 PaaS / 免费容器平台部署代理服务使用，避免依赖第三方镜像源。
 `Plugins/` 目录另存官方插件原版镜像，供各替换器在官方源不可达时兜底下载。
@@ -19,16 +19,16 @@
 ## 下载地址
 
 ```
-https://raw.githubusercontent.com/cyoxyu/cyo/main/amd64/web
-https://raw.githubusercontent.com/cyoxyu/cyo/main/amd64/bot
-https://raw.githubusercontent.com/cyoxyu/cyo/main/arm64/web
-https://raw.githubusercontent.com/cyoxyu/cyo/main/arm64/bot
+https://raw.githubusercontent.com/choaxy/choa/main/amd64/web
+https://raw.githubusercontent.com/choaxy/choa/main/amd64/bot
+https://raw.githubusercontent.com/choaxy/choa/main/arm64/web
+https://raw.githubusercontent.com/choaxy/choa/main/arm64/bot
 ```
 
 示例：
 
 ```bash
-curl -fsSL -o web https://raw.githubusercontent.com/cyoxyu/cyo/main/amd64/web && chmod +x web
+curl -fsSL -o web https://raw.githubusercontent.com/choaxy/choa/main/amd64/web && chmod +x web
 ```
 
 ## Plugins（官方插件镜像）
@@ -44,7 +44,7 @@ curl -fsSL -o web https://raw.githubusercontent.com/cyoxyu/cyo/main/amd64/web &&
 镜像下载地址：
 
 ```
-https://raw.githubusercontent.com/cyoxyu/cyo/main/Plugins/EssentialsX-2.21.1.jar
-https://raw.githubusercontent.com/cyoxyu/cyo/main/Plugins/Geyser-Spigot.jar
-https://raw.githubusercontent.com/cyoxyu/cyo/main/Plugins/lithium-fabric-0.21.4%2Bmc1.21.11.jar
+https://raw.githubusercontent.com/choaxy/choa/main/Plugins/EssentialsX-2.21.1.jar
+https://raw.githubusercontent.com/choaxy/choa/main/Plugins/Geyser-Spigot.jar
+https://raw.githubusercontent.com/choaxy/choa/main/Plugins/lithium-fabric-0.21.4%2Bmc1.21.11.jar
 ```
