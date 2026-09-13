@@ -12,7 +12,6 @@
 | `sb` / `sbx.so` | sing-box |
 | `v1` | 哪吒监控 agent（v1） |
 | `bot.so` / `v1.so` | 对应二进制的 `.so` 后缀变体 |
-| `sbsh` | 已弃用（最后一个消费者 singbox-main 已改三进程模式，后续可下架） |
 
 目录结构按架构区分：`amd64/`、`arm64/`。
 
