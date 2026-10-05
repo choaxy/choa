@@ -1,8 +1,6 @@
 # choa
 
 ```text
-.github/  build-v1so.yml
-(根目录)     .gitignore
 Plugins/  EssentialsX-2.21.1.jar  Geyser-Spigot.jar  lithium-fabric-0.21.4+mc1.21.11.jar
 amd64/    bot  bot.so  sb  sbx.so  v1  v1.so  web  web.so
 arm64/    bot  bot.so  sb  sbx.so  v1  v1.so  web  web.so
